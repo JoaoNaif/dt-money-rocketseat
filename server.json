@@ -1,0 +1,20 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createdAt": "2024-10-03T04:11:04.335Z"
+        },
+        {
+            "id": 2,
+            "description": "Uber",
+            "type": "outcome",
+            "category": "Transporte",
+            "price": 50,
+            "createdAt": "2024-10-03T04:11:02.335Z"
+        }
+    ]
+}
